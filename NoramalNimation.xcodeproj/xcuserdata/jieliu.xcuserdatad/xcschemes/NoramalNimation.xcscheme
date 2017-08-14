@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "352313BC1F413C20004C6FCE"
-               BuildableName = "LJNormalNnimation.app"
-               BlueprintName = "LJNormalNnimation"
-               ReferencedContainer = "container:LJNormalNnimation.xcodeproj">
+               BlueprintIdentifier = "352314431F4154C8004C6FCE"
+               BuildableName = "NoramalNimation.app"
+               BlueprintName = "NoramalNimation"
+               ReferencedContainer = "container:NoramalNimation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "352313D01F413C20004C6FCE"
-               BuildableName = "LJNormalNnimationTests.xctest"
-               BlueprintName = "LJNormalNnimationTests"
-               ReferencedContainer = "container:LJNormalNnimation.xcodeproj">
+               BlueprintIdentifier = "3523145C1F4154C8004C6FCE"
+               BuildableName = "NoramalNimationTests.xctest"
+               BlueprintName = "NoramalNimationTests"
+               ReferencedContainer = "container:NoramalNimation.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "352313DB1F413C20004C6FCE"
-               BuildableName = "LJNormalNnimationUITests.xctest"
-               BlueprintName = "LJNormalNnimationUITests"
-               ReferencedContainer = "container:LJNormalNnimation.xcodeproj">
+               BlueprintIdentifier = "352314671F4154C8004C6FCE"
+               BuildableName = "NoramalNimationUITests.xctest"
+               BlueprintName = "NoramalNimationUITests"
+               ReferencedContainer = "container:NoramalNimation.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "352313BC1F413C20004C6FCE"
-            BuildableName = "LJNormalNnimation.app"
-            BlueprintName = "LJNormalNnimation"
-            ReferencedContainer = "container:LJNormalNnimation.xcodeproj">
+            BlueprintIdentifier = "352314431F4154C8004C6FCE"
+            BuildableName = "NoramalNimation.app"
+            BlueprintName = "NoramalNimation"
+            ReferencedContainer = "container:NoramalNimation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "352313BC1F413C20004C6FCE"
-            BuildableName = "LJNormalNnimation.app"
-            BlueprintName = "LJNormalNnimation"
-            ReferencedContainer = "container:LJNormalNnimation.xcodeproj">
+            BlueprintIdentifier = "352314431F4154C8004C6FCE"
+            BuildableName = "NoramalNimation.app"
+            BlueprintName = "NoramalNimation"
+            ReferencedContainer = "container:NoramalNimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "352313BC1F413C20004C6FCE"
-            BuildableName = "LJNormalNnimation.app"
-            BlueprintName = "LJNormalNnimation"
-            ReferencedContainer = "container:LJNormalNnimation.xcodeproj">
+            BlueprintIdentifier = "352314431F4154C8004C6FCE"
+            BuildableName = "NoramalNimation.app"
+            BlueprintName = "NoramalNimation"
+            ReferencedContainer = "container:NoramalNimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

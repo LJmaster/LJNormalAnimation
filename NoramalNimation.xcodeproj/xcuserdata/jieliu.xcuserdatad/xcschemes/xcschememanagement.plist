@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>LJNormalNnimation.xcscheme</key>
+		<key>NoramalNimation.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>352313BC1F413C20004C6FCE</key>
+		<key>352314431F4154C8004C6FCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>352313D01F413C20004C6FCE</key>
+		<key>3523145C1F4154C8004C6FCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>352313DB1F413C20004C6FCE</key>
+		<key>352314671F4154C8004C6FCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
